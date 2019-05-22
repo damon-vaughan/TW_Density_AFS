@@ -1,7 +1,6 @@
 library(readxl)
 library(tidyverse)
 
-
 # Individual tree data, from inventory list ----------------------------------------------------
 
 TW <- read_excel("RawData/TW_2012_Marked_Data_newJune2016.xlsx",
