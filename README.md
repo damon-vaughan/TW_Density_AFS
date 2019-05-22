@@ -1,7 +1,7 @@
 # TW_Density_AFS
-Final repo for AFS submission
+Final repo for Annals of Forest Science submission
 
-Data used in the analysis can be found in "AnalysisReadyData" folder
+Data used in the analysis can be found in "AnalysisReadyData" folder- other data folders can be ignored.
 
 If you want to follow the scripts I used, the two most important are 
 
